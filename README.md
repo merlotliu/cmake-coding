@@ -2,11 +2,11 @@
 
 ## 目录
 
-### 01-basic 
+### 01-basic : 构建一个最基础的 CMake 项目
 
 演示如何构建一个最基础的 CMake 项目。
 
-### 02-subdirectories
+### 02-subdirectories : 构建包含子目录的 CMake 项目
 
 主要内容：
 
@@ -18,7 +18,7 @@
 
 4. 链接库文件。
 
-### 03-library 
+### 03-library : 创建静态库和动态库
 
 主要内容：
 
@@ -28,7 +28,7 @@
 
 3. 设置库文件和可执行文件的输出路径。
 
-### 04-install-test
+### 04-install-test : 安装与测试
 
 主要内容：
 
